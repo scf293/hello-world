@@ -1,2 +1,5 @@
 # hello-world
-this is my hello-world program
+
+What's up everybody!
+
+this is kind of cool, like social-media for programmers.  I never knew something like this existed!
